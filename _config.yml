@@ -4,11 +4,12 @@ description: 이유와 목적을 찾기 위한 블로그
 author: Mintfrog
 baseurl: ""
 url: "https://mintfrog-1209.github.io"
+future: true
 
 # Social Profiles
-twitter_username: 
+twitter_username:
 github_username: mintfrog-1209
-facebook_username: 
+facebook_username:
 instagram_username:
 linkedin_username:
 
