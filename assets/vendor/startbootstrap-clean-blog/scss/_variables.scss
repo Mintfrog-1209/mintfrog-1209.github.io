@@ -1,2 +1,8 @@
 @import "./variables/colors.scss";
 @import "./variables/typography.scss";
+
+$customFont: "SUIT-Regular";
+$serif: $customFont, Georgia, "Times New Roman", Times, serif !default;
+$sans-serif: $customFont, "Roboto", "Open Sans", "Helvetica Neue", Helvetica,
+  Arial, sans-serif !default;
+$monospace: $customFont, "Courier New", Courier, monospace !default;
