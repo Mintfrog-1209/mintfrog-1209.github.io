@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "[Recoil] 상태관리의 필요성"
-subtitle: "Props Drilling과 상태관리"
+title: "[Recoil] Recoil의 기본 개념"
+subtitle: "Atom과 Selector"
 date: 2024-03-06 16:48:10 +09:00
 background: "/img/posts/05.png"
 published: true
